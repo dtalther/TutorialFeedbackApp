@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": 10,
+      "text": "This is feedback item 1 coming from the backend"
+    },
+    {
+      "id": "2",
+      "rating": 8,
+      "text": "This is feedback item 2 coming from the backend"
+    },
+    {
+      "id": "3",
+      "rating": 7,
+      "text": "This is feedback item 3 coming from the backend"
+    },
+    {
+      "text": "This is an updated item!!",
+      "rating": 8,
+      "id": "dd572bff-7530-4425-8559-9f5be83e8648"
+    },
+    {
+      "text": "Ooooooooooooooooooooof",
+      "rating": 1,
+      "id": "3440534b-2a75-41b8-9927-a6f04228f4f0"
+    }
+  ]
+}
